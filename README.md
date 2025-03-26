@@ -30,6 +30,12 @@ This **state-wise and UT-wise** analysis visualizes the trends in biomedical was
 📂 **Data Source:** _([CPCB DATASET OF BMW](https://cpcb.nic.in/))_  
 🔗 **[View Dashboard](https://public.tableau.com/app/profile/jyoti.yadav1133/viz/DashboardBMW_17429758822600/DashboardBMW)** 
 
+🚀 **🔄 More insights coming soon!**  
+💡 **Upcoming Tableau Dashboard Updates:**  
+✔️ **Advanced Trend Analysis** – Deeper insights into seasonal variations.  
+✔️ **Comparison with Population Growth** – Evaluating waste per capita.  
+✔️ **Predictive Modeling** – Forecasting future biomedical waste trends. 
+
 ---
 
 ### 📊 Power BI Dashboards – *Coming Soon!* 🚀  
@@ -42,6 +48,18 @@ This **state-wise and UT-wise** analysis visualizes the trends in biomedical was
 ✔️ **Sales & Marketing Trends 📈** – ROI and campaign effectiveness.  
 
 📌 **Watch this repository for updates!** 👀  
+---
+
+💡 Contributing & Collaboration 🤝
+🚀 Have an idea for a new dashboard? We’d love to see it!
+
+Fork this repository
+
+Add your Tableau (.twbx) or Power BI (.pbix) dashboards
+
+Submit a pull request
+
+📢 Your contributions will help expand this collection of powerful insights!
 
 
 
