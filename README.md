@@ -61,8 +61,9 @@ Add your Tableau (.twbx) or Power BI (.pbix) dashboards
 Submit a pull request
 
 📢 Your contributions will help expand this collection of powerful insights!
+
 ---
-📌 **Watch this repository for updates!** 👀  
+# 📌 **Watch this repository for updates!** 👀  
 
 
 
