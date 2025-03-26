@@ -15,6 +15,7 @@ This collection features **interactive dashboards** built using **Tableau** and 
 ---
 
 ## 🚀 Available Dashboards  
+---
 
 ### 📊 Tableau Dashboards  
 
@@ -47,7 +48,7 @@ This **state-wise and UT-wise** analysis visualizes the trends in biomedical was
 ✔️ **Customer Segmentation Analysis 👥** – Understanding consumer behavior.  
 ✔️ **Sales & Marketing Trends 📈** – ROI and campaign effectiveness.  
 
-📌 **Watch this repository for updates!** 👀  
+
 ---
 
 💡 Contributing & Collaboration 🤝
@@ -60,6 +61,8 @@ Add your Tableau (.twbx) or Power BI (.pbix) dashboards
 Submit a pull request
 
 📢 Your contributions will help expand this collection of powerful insights!
+---
+📌 **Watch this repository for updates!** 👀  
 
 
 
