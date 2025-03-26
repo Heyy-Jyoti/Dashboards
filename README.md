@@ -27,8 +27,8 @@ This **state-wise and UT-wise** analysis visualizes the trends in biomedical was
 ✔️ Identification of high-waste-generating regions.  
 ✔️ Data-driven strategies for improved waste management.  
 
-📂 **Data Source:** _((https://cpcb.nic.in/))_  
-🔗 **[View Dashboard](#)** _(https://public.tableau.com/app/profile/jyoti.yadav1133/viz/DashboardBMW_17429758822600/DashboardBMW))_  
+📂 **Data Source:** _([CPCB DATASET OF BMW](https://cpcb.nic.in/))_  
+🔗 **[View Dashboard](https://public.tableau.com/app/profile/jyoti.yadav1133/viz/DashboardBMW_17429758822600/DashboardBMW)** 
 
 ---
 
@@ -43,8 +43,6 @@ This **state-wise and UT-wise** analysis visualizes the trends in biomedical was
 
 📌 **Watch this repository for updates!** 👀  
 
----
 
-## 📂 Repository Structure  
 
-📦 **Dashboards Repository**  
+
