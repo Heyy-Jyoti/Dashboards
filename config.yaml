@@ -1,6 +1,0 @@
-usage:
-  instructions:
-    - step: "Clone the repository"
-      command: "git clone https://github.com/your-username/dashboards-repo.git"
-    - step: "Navigate into the repository"
-      command: "cd dashboards-repo"
