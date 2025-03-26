@@ -1,0 +1,31 @@
+
+- `tableau-dashboards/` → Contains Tableau `.twbx` files.
+- `powerbi-dashboards/` → Contains Power BI `.pbix` files.
+- `datasets/` → Stores raw datasets used for visualizations.
+
+---
+
+## 🛠 Tools Used
+
+- **Tableau** 🟠
+- **Power BI** 🔵
+- **Excel/CSV for Data Preprocessing** 📑
+
+---
+
+## 📌 Contribution & Usage
+
+✅ You can use the dashboards for **research, reports, or personal analysis**.  
+📢 If you want to contribute, feel free to open a **Pull Request** or raise an **Issue**.
+
+---
+
+## 🔗 Connect with Me
+
+💡 _For any queries, feel free to reach out!_  
+📧 **Email:** [your_email@example.com]  
+💼 **LinkedIn:** [Your LinkedIn Profile]  
+
+---
+
+🚀 _Stay tuned for more dashboards!_
